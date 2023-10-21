@@ -1,12 +1,12 @@
 {
   "name": "Sample",
   "description": "Sample description",
-  "envMap": "/envmaps/room1.hdr",
-  "model": "/products/sample/sample.glb",
-  "dracoModel0": "/products/sample/sample_compression_0.glb",
-  "dracoModel1": "/products/sample/sample_compression_1.glb",
-  "dracoModel3": "/products/sample/sample_compression_3.glb",
-  "dracoModel6": "/products/sample/sample_compression_6.glb",
+  "envMap": "/3d_catalog/envmaps/room1.hdr",
+  "model": "/3d_catalog/products/sample/sample.glb",
+  "dracoModel0": "/3d_catalog/products/sample/sample_compression_0.glb",
+  "dracoModel1": "/3d_catalog/products/sample/sample_compression_1.glb",
+  "dracoModel3": "/3d_catalog/products/sample/sample_compression_3.glb",
+  "dracoModel6": "/3d_catalog/products/sample/sample_compression_6.glb",
   "nodes": [
     {
       "id": "Sphere",
