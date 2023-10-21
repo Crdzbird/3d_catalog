@@ -27,7 +27,7 @@ export function getCurrentProductData(path) {
 
 export function getProductDataList() {
   return dispatch => {
-    fetch("/3d_catalog/products/products.json")
+    fetch("/products/products.json")
       .then(response => response.json())
       .then(data => {
         dispatch({
