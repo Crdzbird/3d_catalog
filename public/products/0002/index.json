@@ -2,11 +2,11 @@
   "name": "Chair",
   "description": "Chair description",
   "envMap": "/3d_catalog/envmaps/city2.hdr",
-  "model": "/3d_catalogproducts/0002/model_2.glb",
-  "dracoModel0": "/3d_catalogproducts/0002/model_2_compression_0.glb",
-  "dracoModel1": "/3d_catalogproducts/0002/model_2_compression_1.glb",
-  "dracoModel3": "/3d_catalogproducts/0002/model_2_compression_3.glb",
-  "dracoModel6": "/3d_catalogproducts/0002/model_2_compression_6.glb",
+  "model": "/3d_catalog/products/0002/model_2.glb",
+  "dracoModel0": "/3d_catalog/products/0002/model_2_compression_0.glb",
+  "dracoModel1": "/3d_catalog/products/0002/model_2_compression_1.glb",
+  "dracoModel3": "/3d_catalog/products/0002/model_2_compression_3.glb",
+  "dracoModel6": "/3d_catalog/products/0002/model_2_compression_6.glb",
   "nodes": [
     {
       "id": "leather",
