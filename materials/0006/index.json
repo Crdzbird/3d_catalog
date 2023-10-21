@@ -1,13 +1,13 @@
 {
     "name": "Wood",
     "color": "#565656",
-    "map": "/textures/0006/albedo.jpg",
+    "map": "/3d_catalog/textures/0006/albedo.jpg",
     "normalMap": "",
     "normalScale": {
         "x": 1,
         "y": 1
     },
-    "bumpMap": "/textures/0006/bump.jpg",
+    "bumpMap": "/3d_catalog/textures/0006/bump.jpg",
     "bumpScale": 0.005,
     "displacementMap": "",
     "displacementScale": 0.01,
