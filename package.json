@@ -1,7 +1,7 @@
 {
   "name": "3d-product-configurator",
   "version": "0.1.0",
-  "homepage": "https://crdzbird.github.io/MasterInteligenciaArtificialUPV/GPG/3d_catalog",
+  "homepage": "https://crdzbird.github.io/3d_catalog",
   "private": true,
   "dependencies": {
     "@material-ui/core": "4.11.3",
