@@ -1,7 +1,7 @@
 import React from "react"
 import {Provider} from "react-redux"
 import {Route, Switch} from "react-router"
-import {BrowserRouter} from "react-router-dom"
+import { HashRouter as Router } from 'react-router-dom';
 import {PersistGate} from "redux-persist/integration/react"
 import ThemeProvider from "@material-ui/styles/ThemeProvider"
 import appTheme from "./theme"
@@ -15,11 +15,11 @@ const App = () => {
       <Provider store={store}>
         <PersistGate loading={null} persistor={persistor}>
           <ThemeProvider theme={appTheme}>
-            <BrowserRouter>
+            <Router>
               <Switch>
                 <Route exact path={ROUTE_HOMEPAGE} component={Home} />
               </Switch>
-            </BrowserRouter>
+            </Router>
           </ThemeProvider>
         </PersistGate>
       </Provider>
