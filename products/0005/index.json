@@ -14,7 +14,7 @@
       "defaultMesh": "Metal",
       "defaultMaterial": {
         "name": "Gold old",
-        "path": "/materials/0001/index.json"
+        "path": "/3d_catalog/materials/0001/index.json"
       },
       "candidateMeshes": [
         {
@@ -26,47 +26,47 @@
         {
           "name": "Cheap wood",
           "thumbnail": "/materials/0000/preview.jpg",
-          "path": "/materials/0000/index.json"
+          "path": "/3d_catalog/materials/0000/index.json"
         },
         {
           "name": "Gold old",
           "thumbnail": "/materials/0001/preview.jpg",
-          "path": "/materials/0001/index.json"
+          "path": "/3d_catalog/materials/0001/index.json"
         },
         {
           "name": "Leather italian",
           "thumbnail": "/materials/0002/preview.jpg",
-          "path": "/materials/0002/index.json"
+          "path": "/3d_catalog/materials/0002/index.json"
         },
         {
           "name": "Rose wood",
           "thumbnail": "/materials/0003/preview.jpg",
-          "path": "/materials/0003/index.json"
+          "path": "/3d_catalog/materials/0003/index.json"
         },
         {
           "name": "Wood",
           "thumbnail": "/materials/0006/preview.jpg",
-          "path": "/materials/0006/index.json"
+          "path": "/3d_catalog/materials/0006/index.json"
         },
         {
           "name": "Worn wood",
           "thumbnail": "/materials/0007/preview.jpg",
-          "path": "/materials/0007/index.json"
+          "path": "/3d_catalog/materials/0007/index.json"
         },
         {
           "name": "Metal Shine",
           "thumbnail": "/materials/metal_shine/preview.jpg",
-          "path": "/materials/metal_shine/index.json"
+          "path": "/3d_catalog/materials/metal_shine/index.json"
         },
         {
           "name": "Metal Matte",
           "thumbnail": "/materials/metal_matte/preview.jpg",
-          "path": "/materials/metal_matte/index.json"
+          "path": "/3d_catalog/materials/metal_matte/index.json"
         },
         {
           "name": "Glass 1",
           "thumbnail": "/materials/glass_1/preview.jpg",
-          "path": "/materials/glass_1/index.json"
+          "path": "/3d_catalog/materials/glass_1/index.json"
         }
       ]
     },
@@ -76,7 +76,7 @@
       "defaultMesh": "wood_a",
       "defaultMaterial": {
         "name": "Cheap wood",
-        "path": "/materials/0000/index.json"
+        "path": "/3d_catalog/materials/0000/index.json"
       },
       "candidateMeshes": [
         {
@@ -88,47 +88,47 @@
         {
           "name": "Cheap wood",
           "thumbnail": "/materials/0000/preview.jpg",
-          "path": "/materials/0000/index.json"
+          "path": "/3d_catalog/materials/0000/index.json"
         },
         {
           "name": "Gold old",
           "thumbnail": "/materials/0001/preview.jpg",
-          "path": "/materials/0001/index.json"
+          "path": "/3d_catalog/materials/0001/index.json"
         },
         {
           "name": "Leather italian",
           "thumbnail": "/materials/0002/preview.jpg",
-          "path": "/materials/0002/index.json"
+          "path": "/3d_catalog/materials/0002/index.json"
         },
         {
           "name": "Rose wood",
           "thumbnail": "/materials/0003/preview.jpg",
-          "path": "/materials/0003/index.json"
+          "path": "/3d_catalog/materials/0003/index.json"
         },
         {
           "name": "Wood",
           "thumbnail": "/materials/0006/preview.jpg",
-          "path": "/materials/0006/index.json"
+          "path": "/3d_catalog/materials/0006/index.json"
         },
         {
           "name": "Worn wood",
           "thumbnail": "/materials/0007/preview.jpg",
-          "path": "/materials/0007/index.json"
+          "path": "/3d_catalog/materials/0007/index.json"
         },
         {
           "name": "Metal Shine",
           "thumbnail": "/materials/metal_shine/preview.jpg",
-          "path": "/materials/metal_shine/index.json"
+          "path": "/3d_catalog/materials/metal_shine/index.json"
         },
         {
           "name": "Metal Matte",
           "thumbnail": "/materials/metal_matte/preview.jpg",
-          "path": "/materials/metal_matte/index.json"
+          "path": "/3d_catalog/materials/metal_matte/index.json"
         },
         {
           "name": "Glass 1",
           "thumbnail": "/materials/glass_1/preview.jpg",
-          "path": "/materials/glass_1/index.json"
+          "path": "/3d_catalog/materials/glass_1/index.json"
         }
       ]
     },
@@ -138,7 +138,7 @@
       "defaultMesh": "wood_b",
       "defaultMaterial": {
         "name": "Rose wood",
-        "path": "/materials/0003/index.json"
+        "path": "/3d_catalog/materials/0003/index.json"
       },
       "candidateMeshes": [
         {
@@ -150,47 +150,47 @@
         {
           "name": "Cheap wood",
           "thumbnail": "/materials/0000/preview.jpg",
-          "path": "/materials/0000/index.json"
+          "path": "/3d_catalog/materials/0000/index.json"
         },
         {
           "name": "Gold old",
           "thumbnail": "/materials/0001/preview.jpg",
-          "path": "/materials/0001/index.json"
+          "path": "/3d_catalog/materials/0001/index.json"
         },
         {
           "name": "Leather italian",
           "thumbnail": "/materials/0002/preview.jpg",
-          "path": "/materials/0002/index.json"
+          "path": "/3d_catalog/materials/0002/index.json"
         },
         {
           "name": "Rose wood",
           "thumbnail": "/materials/0003/preview.jpg",
-          "path": "/materials/0003/index.json"
+          "path": "/3d_catalog/materials/0003/index.json"
         },
         {
           "name": "Wood",
           "thumbnail": "/materials/0006/preview.jpg",
-          "path": "/materials/0006/index.json"
+          "path": "/3d_catalog/materials/0006/index.json"
         },
         {
           "name": "Worn wood",
           "thumbnail": "/materials/0007/preview.jpg",
-          "path": "/materials/0007/index.json"
+          "path": "/3d_catalog/materials/0007/index.json"
         },
         {
           "name": "Metal Shine",
           "thumbnail": "/materials/metal_shine/preview.jpg",
-          "path": "/materials/metal_shine/index.json"
+          "path": "/3d_catalog/materials/metal_shine/index.json"
         },
         {
           "name": "Metal Matte",
           "thumbnail": "/materials/metal_matte/preview.jpg",
-          "path": "/materials/metal_matte/index.json"
+          "path": "/3d_catalog/materials/metal_matte/index.json"
         },
         {
           "name": "Glass 1",
           "thumbnail": "/materials/glass_1/preview.jpg",
-          "path": "/materials/glass_1/index.json"
+          "path": "/3d_catalog/materials/glass_1/index.json"
         }
       ]
     }

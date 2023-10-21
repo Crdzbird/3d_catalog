@@ -2,11 +2,11 @@
   {
     "id": "#product_3",
     "label": "Chair",
-    "path": "/products/0003/index.json"
+    "path": "/3d_catalog/products/0003/index.json"
   },
   {
     "id": "#product_66",
     "label": "Hoodie",
-    "path": "/products/hoodie/index.json"
+    "path": "/3d_catalog/products/hoodie/index.json"
   }
 ]
