@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/3d_catalog/static/css/main.83cea841.chunk.css",
-    "main.js": "/3d_catalog/static/js/main.34d46c73.chunk.js",
-    "main.js.map": "/3d_catalog/static/js/main.34d46c73.chunk.js.map",
+    "main.js": "/3d_catalog/static/js/main.8fdf6238.chunk.js",
+    "main.js.map": "/3d_catalog/static/js/main.8fdf6238.chunk.js.map",
     "runtime-main.js": "/3d_catalog/static/js/runtime-main.ba7c89d0.js",
     "runtime-main.js.map": "/3d_catalog/static/js/runtime-main.ba7c89d0.js.map",
-    "static/js/2.b35a3794.chunk.js": "/3d_catalog/static/js/2.b35a3794.chunk.js",
-    "static/js/2.b35a3794.chunk.js.map": "/3d_catalog/static/js/2.b35a3794.chunk.js.map",
+    "static/js/2.45ab5140.chunk.js": "/3d_catalog/static/js/2.45ab5140.chunk.js",
+    "static/js/2.45ab5140.chunk.js.map": "/3d_catalog/static/js/2.45ab5140.chunk.js.map",
     "index.html": "/3d_catalog/index.html",
     "static/css/main.83cea841.chunk.css.map": "/3d_catalog/static/css/main.83cea841.chunk.css.map",
-    "static/js/2.b35a3794.chunk.js.LICENSE.txt": "/3d_catalog/static/js/2.b35a3794.chunk.js.LICENSE.txt",
+    "static/js/2.45ab5140.chunk.js.LICENSE.txt": "/3d_catalog/static/js/2.45ab5140.chunk.js.LICENSE.txt",
     "static/media/shader.00bfe510.vert": "/3d_catalog/static/media/shader.00bfe510.vert",
     "static/media/shader.d622c730.frag": "/3d_catalog/static/media/shader.d622c730.frag"
   },
   "entrypoints": [
     "static/js/runtime-main.ba7c89d0.js",
-    "static/js/2.b35a3794.chunk.js",
+    "static/js/2.45ab5140.chunk.js",
     "static/css/main.83cea841.chunk.css",
-    "static/js/main.34d46c73.chunk.js"
+    "static/js/main.8fdf6238.chunk.js"
   ]
 }
