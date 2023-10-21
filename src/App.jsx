@@ -15,7 +15,7 @@ const App = () => {
       <Provider store={store}>
         <PersistGate loading={null} persistor={persistor}>
           <ThemeProvider theme={appTheme}>
-            <Router basename={process.env.PUBLIC_URL}>
+            <Router basename="https://crdzbird.github.io/3d_catalog">
               <Switch>
                 <Route exact path={ROUTE_HOMEPAGE} component={Home} />
               </Switch>
