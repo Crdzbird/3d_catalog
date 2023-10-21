@@ -5,7 +5,7 @@
   "model": "/3d_catalog/products/0001/model_1.glb",
   "dracoModel0": "/3d_catalog/products/0001/model_1_compression_0.glb",
   "dracoModel1": "/3d_catalog/products/0001/model_1_compression_1.glb",
-  "dracoModel3": "/3d_catalogproducts/0001/model_1_compression_3.glb",
+  "dracoModel3": "/3d_catalog/products/0001/model_1_compression_3.glb",
   "dracoModel6": "/3d_catalog/products/0001/model_1_compression_6.glb",
   "nodes": [
     {
