@@ -1,12 +1,12 @@
 {
   "name": "Hoodie",
   "description": "Hoodie description",
-  "envMap": "/envmaps/room1.hdr",
-  "model": "/products/hoodie/hoodie.glb",
-  "dracoModel0": "/products/hoodie/hoodie_compression_0.glb",
-  "dracoModel1": "/products/hoodie/hoodie_compression_1.glb",
-  "dracoModel3": "/products/hoodie/hoodie_compression_3.glb",
-  "dracoModel6": "/products/hoodie/hoodie_compression_6.glb",
+  "envMap": "/3d_catalog/envmaps/room1.hdr",
+  "model": "/3d_catalog/products/hoodie/hoodie.glb",
+  "dracoModel0": "/3d_catalog/products/hoodie/hoodie_compression_0.glb",
+  "dracoModel1": "/3d_catalog/products/hoodie/hoodie_compression_1.glb",
+  "dracoModel3": "/3d_catalog/products/hoodie/hoodie_compression_3.glb",
+  "dracoModel6": "/3d_catalog/products/hoodie/hoodie_compression_6.glb",
   "nodes": [
     {
       "id": "band_in",

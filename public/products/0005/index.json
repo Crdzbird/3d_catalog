@@ -1,7 +1,7 @@
 {
   "name": "Panel",
   "description": "Panel description",
-  "envMap": "/envmaps/room1.hdr",
+  "envMap": "/3d_catalog/envmaps/room1.hdr",
   "model": "products/0005/model_5.glb",
   "dracoModel0": "3d_catalog/products/0005/model_5_compression_0.glb",
   "dracoModel1": "3d_catalog/products/0005/model_5_compression_1.glb",

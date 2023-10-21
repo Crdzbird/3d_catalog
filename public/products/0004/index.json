@@ -1,7 +1,7 @@
 {
   "name": "Nightstand",
   "description": "Nightstand description",
-  "envMap": "/envmaps/room1.hdr",
+  "envMap": "/3d_catalog/envmaps/room1.hdr",
   "model": "products/0004/model_4.glb",
   "dracoModel0": "3d_catalog/products/0004/model_4_compression_0.glb",
   "dracoModel1": "3d_catalog/products/0004/model_4_compression_1.glb",
