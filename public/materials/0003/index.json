@@ -1,13 +1,13 @@
 {
     "name": "Rose wood",
     "color": "#343434",
-    "map": "/textures/0003/albedo.jpg",
+    "map": "/3d_catalog/textures/0003/albedo.jpg",
     "normalMap": "",
     "normalScale": {
         "x": 1,
         "y": 1
     },
-    "bumpMap": "/textures/0003/bump.png",
+    "bumpMap": "/3d_catalog/textures/0003/bump.png",
     "bumpScale": 0.01,
     "displacementMap": "",
     "displacementScale": 0.01,
